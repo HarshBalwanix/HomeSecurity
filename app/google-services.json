@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280753230492",
+    "project_id": "home-security-advanced",
+    "storage_bucket": "home-security-advanced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280753230492:android:17dc5204144498f8e5d359",
+        "android_client_info": {
+          "package_name": "com.example.homesecurity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280753230492-u1so69vaiu6v6slk9lm1ilvgt6rco8pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-xC27_m5xfKmTgF1WqyDk-H3TGIyLBXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280753230492-u1so69vaiu6v6slk9lm1ilvgt6rco8pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
